@@ -1,2 +1,3 @@
-# HudLoadMxzzx
-This repo for getting .js module file for Radmir RP
+# Hud Image Replacer (GitHub + Vercel)
+
+Инструмент для автоматической замены ссылок на изображения в JS-файле.
