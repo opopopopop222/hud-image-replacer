@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <h1>Замена изображений в JS-файле</h1>
-        <form id="uploadForm" enctype="multipart/form-data">
+        <form id="uploadForm" enctype="multipart/form-data" action="/api/process" method="POST">
             <label>Загрузите оригинальный JS-файл:</label>
             <input type="file" name="jsFile" accept=".txt,.js" required><br><br>
 
